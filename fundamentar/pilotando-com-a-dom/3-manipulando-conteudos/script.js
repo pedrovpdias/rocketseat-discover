@@ -16,3 +16,17 @@ console.log(input.value);
 //<input>.value
 input.value = 'Valor que eu quiser';
 
+//setAttribute
+const header = document.querySelector('header');
+header.setAttribute('id', 'header');
+console.log(header);
+
+const headerID = document.querySelector('#header');
+console.log(headerID);
+
+//getAttribute
+console.log(header.getAttribute('id'));
+
+//removeAttribute
+header.removeAttribute('class');
+console.log(header);

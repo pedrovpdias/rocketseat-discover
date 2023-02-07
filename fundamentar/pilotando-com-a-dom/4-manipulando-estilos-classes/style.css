@@ -1,0 +1,11 @@
+.active {
+	color: #ff5555;
+}
+
+.inactive {
+	background-color: rgb(40, 42, 54);
+}
+
+.green {
+	color: #50fa7b;
+}
