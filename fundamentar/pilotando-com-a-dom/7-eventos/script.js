@@ -10,8 +10,13 @@ input.onkeydown = () => {
 }
 
 
-div.onclick = print;
-
+//div.onclick = print; //executa apenas o ultimo evento
 //addEventListener("tipo_evento", "função")
-div.addEventListener('mouseover', print);
+div.addEventListener('click', print);
 
+
+//Argumento event
+input.onkeydown = (event) => {
+	console.log(event);
+	console.log(event.key);
+}
