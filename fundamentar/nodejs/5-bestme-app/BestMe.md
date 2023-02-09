@@ -8,8 +8,9 @@ Use o App ao final de cada dia para refletir sobre sua jornada.
 
 A se comunicar com o processo enquanto ele estiver rodando
 
-[] process.stdout
-[] process.stdin
-[] process.on
+* [x] process.stdout
+* [x] process.stdin
+* [x] process.on
 
-* Assincronismo
+## Iremos praticar um pouco mais de
+* [x] Assincronismo
