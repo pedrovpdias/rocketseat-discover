@@ -109,7 +109,7 @@ Vamos conhecer algumas características das fuções na **programação funciona
 
 #### High-order
 
-* Funções que *8recebem funções** como argumentos
+* Funções que **recebem funções** como argumentos
 * Funções que podrão **retornar ouras funções**
 
 #### Composição de funções
