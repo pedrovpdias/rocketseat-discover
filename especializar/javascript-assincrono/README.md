@@ -19,7 +19,7 @@
 ### Síncrono vs Assíncrono
 
 * Eu um sistema síncrono (*synchronous*), uma tarefa é iniciada após a conclusão de outra.
-*  `callback function`?
+*  `callback function`
 * `setTimeout()`
 
 ### Promises
