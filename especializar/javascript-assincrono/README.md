@@ -30,10 +30,10 @@
     * Leitura de dados de uma API
     * Outros...
 * Uma **promise** poderá ser:
-    * ![#f03c15]{c: #f8f8f2}Pending{/c}: Estado inicial, assim que o Objeto da promessa é iniciado
-    * {c: #50fa7b}Fullfiled{/c}: A **promise** foi concluída com sucesso
-    * {c: #ff5555}Rejected{/c}: A **promise** foi rejeitada, houve um erro
-    * {c: #8be9fd}Settled{/c}: Seja com sucesso ou com erro, a **promise** foi finalmente concluída
+    * Pending: Estado inicial, assim que o Objeto da promessa é iniciado
+    * Fullfiled: A **promise** foi concluída com sucesso
+    * Rejected: A **promise** foi rejeitada, houve um erro
+    * Settled: Seja com sucesso ou com erro, a **promise** foi finalmente concluída
 
 ### Async/Await
 
