@@ -25,8 +25,8 @@
 ## O que vamos ver no curso?
 
 * [x] Conceitos e Fundamentos
-* [ ] Tipos de dados
-* [ ] Variáveis
-* [ ] Funções
-* [ ] Condicionais
-* [ ] Estruturas de repetição
+* [x] Tipos de dados
+* [x] Variáveis
+* [x] Funções
+* [x] Condicionais
+* [x] Estruturas de repetição
