@@ -22,7 +22,8 @@
     * [x] **Body Params**
     * [x] **Route Params**
     * [x] **Query Params**
-* [ ] Consumindo API com NodeJS
+* [x] Consumindo API com NodeJS
+    * [x] Consumindo API com Axios
     * [ ] API no Front-end com **Fetch**
         * [ ] GET
         * [ ] POST
