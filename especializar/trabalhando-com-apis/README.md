@@ -18,10 +18,10 @@
         * [x] POST
         * [x] PUT
         * [x] DELETE
-* [ ] Parâmetros nas requisições
-    * [ ] **Body Params**
-    * [ ] **Route Params**
-    * [ ] **Query Params**
+* [x] Parâmetros nas requisições
+    * [x] **Body Params**
+    * [x] **Route Params**
+    * [x] **Query Params**
 * [ ] Consumindo API com NodeJS
     * [ ] API no Front-end com **Fetch**
         * [ ] GET

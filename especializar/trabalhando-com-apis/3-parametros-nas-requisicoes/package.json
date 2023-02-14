@@ -1,0 +1,15 @@
+{
+  "name": "3-parametros-nas-requisicoes",
+  "version": "1.0.0",
+  "description": "* São formas de passarmos informações para dentro do nosso código",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
