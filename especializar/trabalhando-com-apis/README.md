@@ -29,11 +29,11 @@
         * [x] POST
         * [x] PUT
         * [x] DELETE
-    * [ ] API no Front-end com **Axios**
-        * [ ] GET
-        * [ ] POST
-        * [ ] PUT
-        * [ ] DELETE
+    * [x] API no Front-end com **Axios**
+        * [x] GET
+        * [x] POST
+        * [x] PUT
+        * [x] DELETE
 
 ### Métodos HTTP
 
