@@ -24,11 +24,11 @@
     * [x] **Query Params**
 * [x] Consumindo API com NodeJS
     * [x] Consumindo API com Axios
-    * [ ] API no Front-end com **Fetch**
-        * [ ] GET
-        * [ ] POST
-        * [ ] PUT
-        * [ ] DELETE
+    * [x] API no Front-end com **Fetch**
+        * [x] GET
+        * [x] POST
+        * [x] PUT
+        * [x] DELETE
     * [ ] API no Front-end com **Axios**
         * [ ] GET
         * [ ] POST
