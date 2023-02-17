@@ -6,14 +6,19 @@ Aprenda a programar do zero
 
 ### Fundamentar
 
-* [x]  Guia Estelar JavaScript
-* [X] Pilotando com a DOM
-* [X] NodeJS
+* [x] Guia Estelar **JavaScript**
+* [X] Pilotando com a **DOM**
+* [X] **NodeJS**
 * [X] Programação orienada a Objetos
 * [X] Programação Funcional
-* [ ] Guia Estelar de GIT 
-* [ ] Guia Estelar de GitHub
+* [ ] Guia Estelar de **GIT** 
+* [ ] Guia Estelar de **GitHub**
 
 ### Especializar
-* [x] JavaScript Assíncrono e Promises
-* [x] Trabalhando com APIs
+* [x] **JavaScript** Assíncrono e *Promises*
+* [x] Trabalhando com *APIs*
+* [x] Fundamentos do **ReactJS**
+* [x] Fundamentos do **TypeScript**
+* [ ] **Github** para Times
+* [ ] *Transition* e *Animation*
+* [ ] **SQL** Avançado
