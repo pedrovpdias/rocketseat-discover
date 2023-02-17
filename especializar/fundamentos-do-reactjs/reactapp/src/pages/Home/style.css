@@ -4,8 +4,38 @@
     align-items: center;
 }
 
-.container h1 {
-    margin: 84px 0 24px;
+.container header {
+    margin: 50px 0 0;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container header h1 {
+    font-size: 27px;
+    width: 50%;
+}
+
+.container header img {
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    margin-left: 3px;
+}
+
+.container header div {
+    margin: 20px 0;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    
+    font-size: 13px
+}
+
+.container header div strong {
+    width: 60%;
 }
 
 .container input {
