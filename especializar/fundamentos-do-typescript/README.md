@@ -6,11 +6,12 @@
 
 ## O que vamos aprender?
 
-* [ ] Compilação
-* [ ] Tipagem explícita
-* [ ] Any
-* [ ] Interferência de tipos
-* [ ] Tipos primitivos
+* [x] TypeScript Playground
+* [x] Compilação
+* [x] Tipagem explícita
+* [x] Any
+* [x] Inferência de tipos
+* [x] Tipos primitivos
 * [ ] Matrizes
 * [ ] *Funções*
 * [ ] *Union*
