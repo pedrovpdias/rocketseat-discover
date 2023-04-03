@@ -12,17 +12,17 @@
 * [x] Any
 * [x] Inferência de tipos
 * [x] Tipos primitivos
-* [ ] Matrizes
-* [ ] *Funções*
-* [ ] *Union*
-* [ ] Generics
-* [ ] Type
-    * [ ] Type Assertions
-* [ ] Objetos
-* [ ] Intersecção de Tipos
-* [ ] Interface
-    * [ ] Type e Interface
-* [ ] *tsconfig*
-* [ ] Aplicando **TypeScript**
+* [X] Matrizes
+* [X] *Funções*
+* [X] *Union*
+* [X] Generics
+* [X] Type
+    * [X] Type Assertions
+* [X] Objetos
+* [X] Intersecção de Tipos
+* [X] Interface
+    * [X] Type e Interface
+* [X] *tsconfig*
+* [X] Aplicando **TypeScript**
 * [ ] Tipando *estados*
 * [ ] Tipando respostas de *API*
