@@ -24,5 +24,6 @@
     * [X] Type e Interface
 * [X] *tsconfig*
 * [X] Aplicando **TypeScript**
-* [ ] Tipando *estados*
-* [ ] Tipando respostas de *API*
+* [X] Tipando *componentes*
+* [X] Tipando *estados*
+* [X] Tipando respostas de *API*
